@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "r12",
+    "password": "r12",
+    "role": "buyer"
+  },
+  {
+    "id": 2,
+    "username": "rams",
+    "password": "123",
+    "role": "buyer"
+  },
+  {
+    "id": 3,
+    "username": "rs",
+    "password": "1",
+    "role": "buyer"
+  },
+  {
+    "id": 4,
+    "username": "rw",
+    "password": "1",
+    "role": "buyer"
+  }
+]
