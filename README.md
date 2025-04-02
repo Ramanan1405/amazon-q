@@ -1,6 +1,6 @@
 # Women Entrepreneurs Marketplace
 
-A simple web and mobile application for women entrepreneurs to sell homemade products.
+A simple mobile application for women entrepreneurs to sell homemade products.
 
 ## Features
 
